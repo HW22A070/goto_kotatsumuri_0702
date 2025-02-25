@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "945D460302B25F84B2C264FB73EAC72DDA37B171",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9B76F7F7455EC6A07EA1AD0D4AAF24D2E732CD1B" : 0,
+    "945D460302B25F84B2C264FB73EAC72DDA37B171" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4DA31E71-EA43-4A97-A7CA-71BBCA06616D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9B76F7F7455EC6A07EA1AD0D4AAF24D2E732CD1B" : "..\/..\/..\/..\/opt\/homebrew",
+    "945D460302B25F84B2C264FB73EAC72DDA37B171" : "goto_kotatsumuri_0702\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LastProject_HW22A070",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LastProject_HW22A070\/LastProject_HW22A070.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/HW22A070\/goto_kotatsumuri_0702.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "945D460302B25F84B2C264FB73EAC72DDA37B171"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Homebrew\/brew",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9B76F7F7455EC6A07EA1AD0D4AAF24D2E732CD1B"
+    }
+  ]
+}

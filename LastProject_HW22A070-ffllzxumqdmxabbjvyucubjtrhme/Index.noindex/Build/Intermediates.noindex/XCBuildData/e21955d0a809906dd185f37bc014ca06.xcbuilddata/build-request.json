@@ -1,0 +1,48 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "55364231a4e38dac7bed24e900e7aa3376fe0252146e1d3a6aa934de43f1fd48"
+    }
+  ],
+  "containerPath" : "/Users/hw22a070/Documents/GitHub/goto_kotatsumuri_0702/LastProject_HW22A070/LastProject_HW22A070.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/hw22a070/Library/Developer/Xcode/DerivedData/LastProject_HW22A070-ffllzxumqdmxabbjvyucubjtrhme/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/hw22a070/Library/Developer/Xcode/DerivedData/LastProject_HW22A070-ffllzxumqdmxabbjvyucubjtrhme/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/hw22a070/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/hw22a070/Library/Developer/Xcode/DerivedData/LastProject_HW22A070-ffllzxumqdmxabbjvyucubjtrhme/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/hw22a070/Library/Developer/Xcode/DerivedData/LastProject_HW22A070-ffllzxumqdmxabbjvyucubjtrhme/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/hw22a070/Library/Developer/Xcode/DerivedData/LastProject_HW22A070-ffllzxumqdmxabbjvyucubjtrhme/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/hw22a070/Library/Developer/Xcode/DerivedData/LastProject_HW22A070-ffllzxumqdmxabbjvyucubjtrhme/Build/Products",
+      "pchPath" : "/Users/hw22a070/Library/Developer/Xcode/DerivedData/LastProject_HW22A070-ffllzxumqdmxabbjvyucubjtrhme/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

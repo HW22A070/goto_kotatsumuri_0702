@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>11</integer>
+	<key>logs</key>
+	<dict>
+		<key>1A36F879-F04B-4298-9858-9471BC9E2B2A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1A36F879-F04B-4298-9858-9471BC9E2B2A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>LastProject_HW22A070 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LastProject_HW22A070</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build LastProject_HW22A070</string>
+			<key>timeStartedRecording</key>
+			<real>762159988.78364205</real>
+			<key>timeStoppedRecording</key>
+			<real>762159989.90796196</real>
+			<key>title</key>
+			<string>Build LastProject_HW22A070</string>
+			<key>uniqueIdentifier</key>
+			<string>1A36F879-F04B-4298-9858-9471BC9E2B2A</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
